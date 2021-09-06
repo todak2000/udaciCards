@@ -22,9 +22,11 @@ To get a local copy up and running follow these simple example steps and ensure 
    ```sh
    npm start OR expo start
    ```
+5. Follow instructions from Expo - the app can be run using the iOS emulator, or on an iPhone & the Expo Application
 
 ## Built with
 [React-Native](https://reactnative.dev/)
+[Expo](https://expo.dev/)
 
 
 ## Contributing
